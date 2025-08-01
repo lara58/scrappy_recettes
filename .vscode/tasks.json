@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Exécuter le scraper météo",
+			"type": "shell",
+			"command": "C:/Users/narim/AppData/Local/Programs/Python/Python313/python.exe",
+			"args": [
+				"meteo_scraper.py"
+			],
+			"group": "build",
+			"problemMatcher": [],
+			"isBackground": false
+		}
+	]
+}
