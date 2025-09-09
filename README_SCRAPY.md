@@ -10,7 +10,7 @@ pip install scrapy
 
 ## Utilisation
 
-### ⚠️ Important : Navigation vers le dossier du projet
+### Important : Navigation vers le dossier du projet
 ```bash
 # D'abord, aller dans le dossier du projet Scrapy
 cd recettes_scrapy
